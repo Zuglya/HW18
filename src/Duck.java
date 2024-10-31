@@ -7,6 +7,6 @@ public class Duck extends Animals{
     }
 
     public void move() {
-        System.out.println("Утка по кличке " + super.getName() + " бежит по земле");
+        System.out.println("Утка по кличке " + super.getName() + " летит в облаках");
     }
 }
